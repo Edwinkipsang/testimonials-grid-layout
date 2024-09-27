@@ -1,5 +1,5 @@
 .testimonials {
-  background-color: hsl(210, 46%, 95%);
+  background-color: red
 }
 .name {
   display: flex;
@@ -8,6 +8,7 @@
 .daniel {
   background-color: hsl(263, 55%, 52%);
   border-radius: 10px;
+  
 }
 .paragraph {
   color: hsl(0, 0%, 81%);
@@ -21,18 +22,16 @@
 .walters {
   background-color: hsl(217, 19%, 35%);
 }
-.jeanette {
-  color: hsl(0, 0%, 81%);
+.about-harmon {
+   background-color: #fff;
+   color:hsl(219, 29%, 14%)
 }
 .graph {
   color: hsl(217, 19%, 35%);
 }
-.patrick {
-  background-color: hsl(219, 29%, 14%);
-}
 
-.fear {
-  color: #fff;
+.about-patrick {
+  background-color:hsl(219, 29%, 14%);
 }
 .jonathan {
   background: radius 10px;
@@ -43,4 +42,21 @@
 .img {
   padding-top: 20px;
   padding-left: 30px;
+ 
+}
+#image{
+  border-radius: 50%;
+  border:2px solid #fff
+}
+.whittle{
+  background-color: hsl(0, 0%, 100%);
+}
+.head{
+  color:hsl(219, 29%, 14%)
+}
+.about-verified{
+  color:hsl(0, 0%, 81%)
+}
+.about-kira{
+  color: hsl(219, 29%, 14%)
 }
