@@ -1,4 +1,4 @@
-/* .testimonials {
+/* .testimonials { */
   display:grid;
   background-color:  hsl(210, 46%, 95%);
 
@@ -6,7 +6,7 @@
   gap:20%;
   max-width:1500px;
   margin:50px auto;
-  padding: 50%; */
+  padding: 50%;
 
 
 }
