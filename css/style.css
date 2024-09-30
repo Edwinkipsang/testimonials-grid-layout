@@ -112,14 +112,20 @@
     grid-template-rows: repeat(5, 1fr);
   }
   .daniel {
-    grid-column-start: 1fr;
-    grid-column-end: 2fr;
+    grid-column-start: 1;
+    grid-column-end: 2;
   }
-  .patrick {
-    grid-row: 4/5;
+  .abrams {
+    grid-column: 1/2;
   }
   .kira {
     grid-row: 4/5;
+    grid-column: 1/2;
+  }
+  .jeanette {
+    grid-column: 1/2;
+  }
+  .jonathan {
     grid-column: 1/2;
   }
 }
